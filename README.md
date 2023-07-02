@@ -18,7 +18,7 @@ This project demonstrates how to use a NodeMCU ESP8266 board along with an MFRC5
 
 ## Circuit Diagram
 
-Insert a circuit diagram here if applicable.
+![Circuit Diagram](circuit.png)
 
 ## Installation
 
